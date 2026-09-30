@@ -1,0 +1,39 @@
+.primary_btn{
+    
+    background-color: black;
+    color: white;
+    padding: 18px 10px;
+    height: 44px;
+    font-weight:600;
+    font-size: 16px;
+    min-width:220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:8px;
+    border-radius: 5px;
+    margin-left:188px;
+    margin-top:15px
+}
+.btns{
+    display: flex;
+    width:472px;
+    gap: 0px;
+}
+.outline_btn{
+    
+    background-color: rgb(218, 212, 212);
+    color: black;
+    padding: 18px 10px;
+    height: 44px;
+    font-weight:600;
+    font-size: 16px;
+    min-width:626px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:8px;
+    border-radius: 5px;
+    margin-left:188px;
+    margin-top:15px
+}

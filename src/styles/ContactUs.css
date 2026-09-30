@@ -1,0 +1,53 @@
+.container {
+    margin-left: 188px;
+  
+}
+
+.heading {
+    font-family: Poppins;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 12px;
+
+}
+
+.subHeading {
+    width: 972px;
+    height: 72px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: SemiBold;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 2px;
+}
+.form_container{
+    display: flex;
+    flex-direction: column;
+    width:77%;
+    margin-left: 188px;
+    margin-top: 20px;
+}
+.form_container input{
+    height: 40px;
+    padding: 0 8px;
+}
+.form_container label{
+    margin-top:10px;
+    margin-bottom:7px;
+    
+}
+.submit-button{
+    display: flex;
+    justify-content: end !important;
+   
+}
+.main{
+    display: flex;
+    
+}
